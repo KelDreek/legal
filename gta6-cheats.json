@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 2,
+  "game": "gta6",
+  "cheats": [
+    {
+      "id": "gta6-preview-invincibility",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Бессмертие · 5 минут",
+        "en": "Immortality for 5 minutes"
+      },
+      "playstation": [
+        "RIGHT",
+        "X",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "R1",
+        "RIGHT",
+        "LEFT",
+        "X",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "RIGHT",
+        "A",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "RB",
+        "RIGHT",
+        "LEFT",
+        "A",
+        "Y"
+      ]
+    },
+    {
+      "id": "gta6-preview-speed",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Суперскорость",
+        "en": "Super speed"
+      },
+      "playstation": [
+        "TRIANGLE",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "L2",
+        "L1",
+        "SQUARE"
+      ],
+      "xbox": [
+        "Y",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LT",
+        "LB",
+        "X"
+      ]
+    },
+    {
+      "id": "gta6-preview-health",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Максимум здоровья и брони",
+        "en": "Maximum health and armor"
+      },
+      "playstation": [
+        "CIRCLE",
+        "L1",
+        "TRIANGLE",
+        "R2",
+        "X",
+        "SQUARE",
+        "CIRCLE",
+        "RIGHT",
+        "SQUARE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "B",
+        "LB",
+        "Y",
+        "RT",
+        "A",
+        "X",
+        "B",
+        "RIGHT",
+        "X",
+        "LB",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-jump",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Суперпрыжок",
+        "en": "Super jump"
+      },
+      "playstation": [
+        "LEFT",
+        "LEFT",
+        "TRIANGLE",
+        "TRIANGLE",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "SQUARE",
+        "R1",
+        "R2"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "Y",
+        "Y",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "X",
+        "RB",
+        "RT"
+      ]
+    },
+    {
+      "id": "gta6-preview-swim",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Быстрое плавание",
+        "en": "Fast swimming"
+      },
+      "playstation": [
+        "LEFT",
+        "LEFT",
+        "L1",
+        "RIGHT",
+        "RIGHT",
+        "R2",
+        "LEFT",
+        "L2",
+        "RIGHT"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "LB",
+        "RIGHT",
+        "RIGHT",
+        "RT",
+        "LEFT",
+        "LT",
+        "RIGHT"
+      ]
+    },
+    {
+      "id": "gta6-preview-ability",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Восстановить особую способность",
+        "en": "Recharge special ability"
+      },
+      "playstation": [
+        "X",
+        "X",
+        "SQUARE",
+        "R1",
+        "L1",
+        "X",
+        "RIGHT",
+        "LEFT",
+        "X"
+      ],
+      "xbox": [
+        "A",
+        "A",
+        "X",
+        "RB",
+        "LB",
+        "A",
+        "RIGHT",
+        "LEFT",
+        "A"
+      ]
+    },
+    {
+      "id": "gta6-preview-wanted-up",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Повысить уровень розыска",
+        "en": "Raise wanted level"
+      },
+      "playstation": [
+        "R1",
+        "R1",
+        "CIRCLE",
+        "R2",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "RB",
+        "RB",
+        "B",
+        "RT",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT"
+      ]
+    },
+    {
+      "id": "gta6-preview-wanted-down",
+      "category": "character",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Снизить уровень розыска",
+        "en": "Lower wanted level"
+      },
+      "playstation": [
+        "R1",
+        "R1",
+        "CIRCLE",
+        "R2",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT"
+      ],
+      "xbox": [
+        "RB",
+        "RB",
+        "B",
+        "RT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "LEFT"
+      ]
+    },
+    {
+      "id": "gta6-preview-weapons",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Всё оружие",
+        "en": "All weapons"
+      },
+      "playstation": [
+        "TRIANGLE",
+        "R2",
+        "LEFT",
+        "L1",
+        "X",
+        "RIGHT",
+        "TRIANGLE",
+        "DOWN",
+        "SQUARE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "Y",
+        "RT",
+        "LEFT",
+        "LB",
+        "A",
+        "RIGHT",
+        "Y",
+        "DOWN",
+        "X",
+        "LB",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-ammo",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Бесконечные патроны",
+        "en": "Unlimited ammo"
+      },
+      "playstation": [
+        "L1",
+        "R1",
+        "SQUARE",
+        "R1",
+        "LEFT",
+        "R2",
+        "R1",
+        "LEFT",
+        "SQUARE",
+        "DOWN",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "LB",
+        "RB",
+        "X",
+        "RB",
+        "LEFT",
+        "RT",
+        "RB",
+        "LEFT",
+        "X",
+        "DOWN",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-explosive",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Взрывные пули",
+        "en": "Explosive bullets"
+      },
+      "playstation": [
+        "RIGHT",
+        "SQUARE",
+        "X",
+        "LEFT",
+        "R1",
+        "R2",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "RIGHT",
+        "X",
+        "A",
+        "LEFT",
+        "RB",
+        "RT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LB",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-fire",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Зажигательные пули",
+        "en": "Flaming bullets"
+      },
+      "playstation": [
+        "L1",
+        "R1",
+        "SQUARE",
+        "R1",
+        "LEFT",
+        "R2",
+        "R1",
+        "LEFT",
+        "SQUARE",
+        "DOWN",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "LB",
+        "RB",
+        "X",
+        "RB",
+        "LEFT",
+        "RT",
+        "RB",
+        "LEFT",
+        "X",
+        "DOWN",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-melee",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Взрывные удары",
+        "en": "Explosive melee"
+      },
+      "playstation": [
+        "RIGHT",
+        "LEFT",
+        "X",
+        "TRIANGLE",
+        "R1",
+        "CIRCLE",
+        "CIRCLE",
+        "CIRCLE",
+        "L2"
+      ],
+      "xbox": [
+        "RIGHT",
+        "LEFT",
+        "A",
+        "Y",
+        "RB",
+        "B",
+        "B",
+        "B",
+        "LT"
+      ]
+    },
+    {
+      "id": "gta6-preview-aim",
+      "category": "combat",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Замедленное прицеливание",
+        "en": "Slow motion aiming"
+      },
+      "playstation": [
+        "SQUARE",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "LEFT",
+        "SQUARE",
+        "L2",
+        "RIGHT",
+        "X"
+      ],
+      "xbox": [
+        "X",
+        "LT",
+        "RB",
+        "Y",
+        "LEFT",
+        "X",
+        "LT",
+        "RIGHT",
+        "A"
+      ]
+    },
+    {
+      "id": "gta6-preview-sports-car",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Спортивная машина",
+        "en": "Spawn sports car"
+      },
+      "playstation": [
+        "R1",
+        "CIRCLE",
+        "R2",
+        "RIGHT",
+        "L1",
+        "L2",
+        "X",
+        "X",
+        "SQUARE",
+        "R1"
+      ],
+      "xbox": [
+        "RB",
+        "B",
+        "RT",
+        "RIGHT",
+        "LB",
+        "LT",
+        "A",
+        "A",
+        "X",
+        "RB"
+      ]
+    },
+    {
+      "id": "gta6-preview-supercar",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Суперкар",
+        "en": "Spawn supercar"
+      },
+      "playstation": [
+        "R2",
+        "L1",
+        "CIRCLE",
+        "RIGHT",
+        "L1",
+        "R1",
+        "RIGHT",
+        "LEFT",
+        "CIRCLE",
+        "R2"
+      ],
+      "xbox": [
+        "RT",
+        "LB",
+        "B",
+        "RIGHT",
+        "LB",
+        "RB",
+        "RIGHT",
+        "LEFT",
+        "B",
+        "RT"
+      ]
+    },
+    {
+      "id": "gta6-preview-motorcycle",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Мотоцикл",
+        "en": "Spawn motorcycle"
+      },
+      "playstation": [
+        "R1",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "R2",
+        "LEFT",
+        "RIGHT",
+        "SQUARE",
+        "RIGHT",
+        "L2",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "RB",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "RT",
+        "LEFT",
+        "RIGHT",
+        "X",
+        "RIGHT",
+        "LT",
+        "LB",
+        "LB"
+      ]
+    },
+    {
+      "id": "gta6-preview-helicopter",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Вертолёт",
+        "en": "Spawn helicopter"
+      },
+      "playstation": [
+        "CIRCLE",
+        "CIRCLE",
+        "L1",
+        "CIRCLE",
+        "CIRCLE",
+        "CIRCLE",
+        "L1",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "CIRCLE",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "B",
+        "B",
+        "LB",
+        "B",
+        "B",
+        "B",
+        "LB",
+        "LT",
+        "RB",
+        "Y",
+        "B",
+        "Y"
+      ]
+    },
+    {
+      "id": "gta6-preview-plane",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Самолёт",
+        "en": "Spawn stunt plane"
+      },
+      "playstation": [
+        "CIRCLE",
+        "RIGHT",
+        "L1",
+        "L2",
+        "LEFT",
+        "R1",
+        "L1",
+        "L1",
+        "LEFT",
+        "LEFT",
+        "X",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "B",
+        "RIGHT",
+        "LB",
+        "LT",
+        "LEFT",
+        "RB",
+        "LB",
+        "LB",
+        "LEFT",
+        "LEFT",
+        "A",
+        "Y"
+      ]
+    },
+    {
+      "id": "gta6-preview-bmx",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Велосипед BMX",
+        "en": "Spawn BMX"
+      },
+      "playstation": [
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "SQUARE",
+        "CIRCLE",
+        "TRIANGLE",
+        "R1",
+        "R2"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "X",
+        "B",
+        "Y",
+        "RB",
+        "RT"
+      ]
+    },
+    {
+      "id": "gta6-preview-boat",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Катер",
+        "en": "Spawn speedboat"
+      },
+      "playstation": [
+        "R1",
+        "CIRCLE",
+        "RIGHT",
+        "L1",
+        "RIGHT",
+        "R1",
+        "RIGHT",
+        "LEFT",
+        "CIRCLE",
+        "R2"
+      ],
+      "xbox": [
+        "RB",
+        "B",
+        "RIGHT",
+        "LB",
+        "RIGHT",
+        "RB",
+        "RIGHT",
+        "LEFT",
+        "B",
+        "RT"
+      ]
+    },
+    {
+      "id": "gta6-preview-truck",
+      "category": "transport",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Внедорожник",
+        "en": "Spawn off-road truck"
+      },
+      "playstation": [
+        "R1",
+        "L1",
+        "CIRCLE",
+        "RIGHT",
+        "R2",
+        "LEFT",
+        "X",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "RB",
+        "LB",
+        "B",
+        "RIGHT",
+        "RT",
+        "LEFT",
+        "A",
+        "Y"
+      ]
+    },
+    {
+      "id": "gta6-preview-weather",
+      "category": "world",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Сменить погоду",
+        "en": "Change weather"
+      },
+      "playstation": [
+        "R2",
+        "X",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "SQUARE"
+      ],
+      "xbox": [
+        "RT",
+        "A",
+        "LB",
+        "LB",
+        "LT",
+        "LT",
+        "LT",
+        "X"
+      ]
+    },
+    {
+      "id": "gta6-preview-time",
+      "category": "world",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Замедлить время",
+        "en": "Slow motion"
+      },
+      "playstation": [
+        "TRIANGLE",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "SQUARE",
+        "R2",
+        "R1"
+      ],
+      "xbox": [
+        "Y",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "X",
+        "RT",
+        "RB"
+      ]
+    },
+    {
+      "id": "gta6-preview-gravity",
+      "category": "world",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Лунная гравитация",
+        "en": "Moon gravity"
+      },
+      "playstation": [
+        "LEFT",
+        "LEFT",
+        "L1",
+        "R1",
+        "L1",
+        "RIGHT",
+        "LEFT",
+        "L1",
+        "LEFT"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "LB",
+        "RB",
+        "LB",
+        "RIGHT",
+        "LEFT",
+        "LB",
+        "LEFT"
+      ]
+    },
+    {
+      "id": "gta6-preview-traffic",
+      "category": "world",
+      "pc": "",
+      "phone": "",
+      "title": {
+        "ru": "Скользкие дороги",
+        "en": "Slippery roads"
+      },
+      "playstation": [
+        "TRIANGLE",
+        "R1",
+        "R1",
+        "LEFT",
+        "R1",
+        "L1",
+        "R2",
+        "L1"
+      ],
+      "xbox": [
+        "Y",
+        "RB",
+        "RB",
+        "LEFT",
+        "RB",
+        "LB",
+        "RT",
+        "LB"
+      ]
+    }
+  ]
+}
