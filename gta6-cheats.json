@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "game": "gta6",
+  "showDisclaimer": true,
   "cheats": [
     {
       "id": "gta6-preview-invincibility",
@@ -9,8 +10,8 @@
       "pc": "",
       "phone": "",
       "title": {
-        "ru": "Бессмертие · 5 минут",
-        "en": "Immortality for 5 minutes"
+        "ru": "Бессмертие · 6 минут",
+        "en": "Immortality for 6 minutes"
       },
       "playstation": [
         "RIGHT",
